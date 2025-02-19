@@ -6,8 +6,8 @@
 
 Esse projeto foi desenvolvido com a finalidade de apresentar um catálogo de carros de forma simples e objetiva.
 
-![Preview Site](https://cdn.discordapp.com/attachments/936680171354849391/1065689464703295558/image.png)
-
+![Preview Site](
+https://cdn.discordapp.com/attachments/1143058252117053544/1341831060283199598/Captura_de_tela_2025-02-19_145528.png?ex=67b76d0e&is=67b61b8e&hm=cc8e606aab8afd7fd923df31907c1c44c040eae962b2ce413bc46302a71912cf&)
 ## Funcionalidades
 
 O projeto possui funcionalidades como:
