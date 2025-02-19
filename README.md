@@ -19,14 +19,10 @@ O projeto possui funcionalidades como:
 - Adição, remoção e edição de veículos;
 - Visualização de detalhes do veículo.
 
-## Tecnologias
-
-Para o desenvolvimento desse projeto foram utilizadas as seguintes tecnologias:
+## Frameworks
 
 - [Laravel](https://laravel.com/)
-- [HTML](https://www.w3.org/TR/html52/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [JavaScript](https://www.javascript.com/)
 
 ## Como utilizar
 
