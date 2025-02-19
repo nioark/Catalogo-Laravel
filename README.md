@@ -8,6 +8,9 @@ Esse projeto foi desenvolvido com a finalidade de apresentar um catálogo de car
 
 ![Preview Site](
 https://cdn.discordapp.com/attachments/1143058252117053544/1341831060283199598/Captura_de_tela_2025-02-19_145528.png?ex=67b76d0e&is=67b61b8e&hm=cc8e606aab8afd7fd923df31907c1c44c040eae962b2ce413bc46302a71912cf&)
+
+![Preview Site](https://cdn.discordapp.com/attachments/1143058252117053544/1341831687625244742/image.png?ex=67b76da4&is=67b61c24&hm=5ebcc1e9b197acb8dd7a34fbcf80c0e256d5d2f608e971ecaad9250f8d903566&)
+
 ## Funcionalidades
 
 O projeto possui funcionalidades como:
